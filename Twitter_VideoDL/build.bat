@@ -1,0 +1,1 @@
+ dotnet publish .\Twitter_VideoDL.csproj -r win-x64 -c Release -o ".\bin\Release\" /p:PublishSingleFile=true
